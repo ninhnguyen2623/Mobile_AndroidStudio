@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "com.example.notesapp-merged_res-38:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.notesapp-main-40:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/drawable_background_delete.xml.flat",
+        "source": "com.example.notesapp-main-40:/drawable/background_delete.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/drawable_background_note_color_1.xml.flat",
+        "source": "com.example.notesapp-main-40:/drawable/background_note_color_1.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.notesapp-main-40:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/drawable_ic_done.xml.flat",
+        "source": "com.example.notesapp-main-40:/drawable/ic_done.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/layout_item_container_note.xml.flat",
+        "source": "com.example.notesapp-main-40:/layout/item_container_note.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/layout_layout_miscellaneous.xml.flat",
+        "source": "com.example.notesapp-main-40:/layout/layout_miscellaneous.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.notesapp-main-40:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.notesapp-main-40:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.notesapp-main-40:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/drawable_background_add_button.xml.flat",
+        "source": "com.example.notesapp-main-40:/drawable/background_add_button.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.notesapp-main-40:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.notesapp-main-40:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/drawable_ic_add.xml.flat",
+        "source": "com.example.notesapp-main-40:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/layout_activity_create_note.xml.flat",
+        "source": "com.example.notesapp-main-40:/layout/activity_create_note.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/font_ubuntu_bold.ttf.flat",
+        "source": "com.example.notesapp-main-40:/font/ubuntu_bold.ttf"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/xml_backup_rules.xml.flat",
+        "source": "com.example.notesapp-main-40:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/drawable_ic_delete.xml.flat",
+        "source": "com.example.notesapp-main-40:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/drawable_background_dialog.xml.flat",
+        "source": "com.example.notesapp-main-40:/drawable/background_dialog.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.notesapp-main-40:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/drawable_background_done_button.xml.flat",
+        "source": "com.example.notesapp-main-40:/drawable/background_done_button.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/font_ubuntu_regular.ttf.flat",
+        "source": "com.example.notesapp-main-40:/font/ubuntu_regular.ttf"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/drawable_background_note_color_4.xml.flat",
+        "source": "com.example.notesapp-main-40:/drawable/background_note_color_4.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/drawable_background_note_color_2.xml.flat",
+        "source": "com.example.notesapp-main-40:/drawable/background_note_color_2.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/layout_layout_delete_note.xml.flat",
+        "source": "com.example.notesapp-main-40:/layout/layout_delete_note.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/drawable_ic_search.xml.flat",
+        "source": "com.example.notesapp-main-40:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.notesapp-main-40:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/drawable_background_note.xml.flat",
+        "source": "com.example.notesapp-main-40:/drawable/background_note.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.notesapp-main-40:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.notesapp-main-40:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.notesapp-main-40:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/layout_activity_main.xml.flat",
+        "source": "com.example.notesapp-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/drawable_ic_image.xml.flat",
+        "source": "com.example.notesapp-main-40:/drawable/ic_image.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/layout_layout_add_url.xml.flat",
+        "source": "com.example.notesapp-main-40:/layout/layout_add_url.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.notesapp-main-40:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/drawable_ic_add_outline.xml.flat",
+        "source": "com.example.notesapp-main-40:/drawable/ic_add_outline.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/font_ubuntu_medium.ttf.flat",
+        "source": "com.example.notesapp-main-40:/font/ubuntu_medium.ttf"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.notesapp-main-40:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/drawable_background_note_color_5.xml.flat",
+        "source": "com.example.notesapp-main-40:/drawable/background_note_color_5.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/drawable_background_miscellaneous.xml.flat",
+        "source": "com.example.notesapp-main-40:/drawable/background_miscellaneous.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.notesapp-main-40:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/drawable_background_search.xml.flat",
+        "source": "com.example.notesapp-main-40:/drawable/background_search.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/drawable_ic_back.xml.flat",
+        "source": "com.example.notesapp-main-40:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/drawable_ic_weblink.xml.flat",
+        "source": "com.example.notesapp-main-40:/drawable/ic_weblink.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/drawable_background_subtitle_indicator.xml.flat",
+        "source": "com.example.notesapp-main-40:/drawable/background_subtitle_indicator.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-38:/drawable_background_note_color_3.xml.flat",
+        "source": "com.example.notesapp-main-40:/drawable/background_note_color_3.xml"
+    }
+]

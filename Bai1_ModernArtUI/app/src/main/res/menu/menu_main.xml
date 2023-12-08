@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/menu_item">
+
+    <item
+        android:id="@+id/relative_layout"
+        android:title="RelativeLayout" />
+    <item
+        android:id="@+id/linear_layout"
+        android:title="LinearLayout" />
+    <item
+        android:id="@+id/table_layout"
+        android:title="TableLayout" />
+    <item
+        android:id="@+id/dialog"
+        android:title="More	Information" />
+</menu>

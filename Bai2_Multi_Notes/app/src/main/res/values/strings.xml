@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="my_notes">Ghi chú</string>
+    <string name="search_notes">Tìm ghi chú</string>
+    <string name="note_title">Tiêu đề ghi chú</string>
+    <string name="note_subtitle">Phụ đề ghi chú</string>
+    <string name="type_note_here">Nhập ghi chú tại đây...</string>
+    <string name="miscellaneous">Khác</string>
+    <string name="pick_color">Chọn màu</string>
+    <string name="add_image">Thêm ảnh</string>
+    <string name="add_url">Thêm URL</string>
+    <string name="enter_url">Nhập URL</string>
+    <string name="add">THÊM</string>
+    <string name="cancel_dialog">HUỶ</string>
+    <string name="delete_note">Xoá ghi chú</string>
+    <string name="question_delete_note">Bạn muốn xoá ghi chú này?</string>
+</resources>
